@@ -1,0 +1,68 @@
+.header-section {
+    background-color: #FDFCF8;
+    height: auto;
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.header-section__wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-section__title {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 100%;
+    color: #000000;
+    margin: 60px 0 126px 0;
+    text-align: center;
+}
+
+.header-section__services {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-section__list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.header-section__link {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 400;
+    background-color: #F46565;
+    border-radius: 20px;
+    padding: 30px 95px;
+    margin-bottom: 12px;
+}
+
+.speccial-color__first {
+    background-color: #F46565;
+}
+
+.speccial-color__second {
+    background-color: #87AA92;
+}
+
+.speccial-color__third {
+    background-color: #F4B265;
+}
+
+.speccial-color__fours {
+    background-color: #4A90E2;
+}
+
+.speccial-color__fivs {
+    background-color: #F4B265;
+}
+
+.speccial-color__sixs {
+    background-color: #E28D4A;
+}

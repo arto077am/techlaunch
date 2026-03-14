@@ -1,0 +1,107 @@
+.occupations {
+    padding: 0 0 60px;
+    margin: 0 auto;
+}
+
+.occupations-title__text {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: normal;
+    color: #000000;
+    margin: 0 0 70px 0;
+}
+
+.occupations-wrapper {
+    display: flex;
+    gap: 100px;
+    justify-content: space-around;
+    margin: 0 0 60px 0;
+    max-height: 463px;
+}
+
+.occupations-card__first {
+    margin-left: 57px;
+    margin-bottom: 60px;
+}
+
+.occupations-card {
+    padding: 50px 30px;
+    min-width: 453px;
+    background-color: #FFFFFF;
+    filter: drop-shadow(0px 0px 38.29999923706055px rgba(0, 0, 0, 0.25));
+    border-radius: 20px;
+}
+
+.occupations-card__text {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 32px;
+    /* letter-spacing: 0%; */
+    margin: 0 0 30px 0;
+}
+
+.occupations-card__list {
+    margin: 0 0 65px 0;
+}
+
+.occupations-card__item {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 32px;
+    margin: 0 0 10px 0;
+    color: #000000;
+}
+
+.occupations-card__link {
+    display: block;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #000000;
+    background-color: #4A90E2;
+    border-radius: 20px;
+    text-align: center;
+    padding: 19px 122px;
+}
+
+.occupations-wrapper--speccial {
+    margin: 0 0 120px 0;
+}
+
+.occupations-card__list--speccial {
+    margin: 0 auto;
+}
+
+.occupations-card__item--speccial-two {
+    margin: 0 0 32px 0;
+}
+
+.occupations-card__link--speccial {
+    display: inline-block;
+    padding: 23px 122px;
+    margin: 0 19px;
+}
+
+.speccial-color__first {
+    background-color: #F46565;
+}
+
+.speccial-color__second {
+    background-color: #87AA92;
+}
+
+.speccial-color__third {
+    background-color: #F4B265;
+}
+
+.speccial-color__fours {
+    background-color: #4A90E2;
+}
+
+.speccial-color__fivs {
+    background-color: #F4B265;
+}
+
+.speccial-color__sixs {
+    background-color: #E28D4A;
+}

@@ -1,0 +1,39 @@
+.header {
+    max-width: 1280px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.header-info {
+    display: flex;
+}
+
+.header-logo {
+    margin: 10px 124px 0 0;
+}
+
+.header-logo__img {
+    margin-bottom: 1px;
+}
+
+.header-nav {
+    display: flex;
+}
+
+.header-nav__list {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    margin: 0 auto;
+}
+
+.header-nav__link {
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 100%;
+    color: #000000;
+}

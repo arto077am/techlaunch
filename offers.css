@@ -1,0 +1,21 @@
+.offers {
+    margin-bottom: 60px;
+}
+
+.offers-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.offers-link {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 100%;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px 56px;
+    border-radius: 20px;
+}
