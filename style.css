@@ -1,0 +1,13 @@
+/* Global */
+
+@import "./css/global/fonts.css";
+@import "./css/global/reboot.css";
+@import "./css/global/container.css";
+
+/* Blocks */
+
+@import "./css/blocks/header.css";
+@import "./css/blocks/header-section.css";
+@import "./css/blocks/offers.css";
+@import "./css/blocks/occupations.css";
+@import "./css/blocks/footer.css";
